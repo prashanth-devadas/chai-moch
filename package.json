@@ -1,0 +1,22 @@
+{
+  "name": "chai-moch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashanth-devadas/chai-moch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashanth-devadas/chai-moch/issues"
+  },
+  "homepage": "https://github.com/prashanth-devadas/chai-moch#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
