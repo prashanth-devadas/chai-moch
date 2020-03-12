@@ -18,5 +18,11 @@
   "homepage": "https://github.com/prashanth-devadas/chai-moch#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0",
+    "nodemon": "^2.0.2",
+    "request": "^2.88.2"
   }
 }

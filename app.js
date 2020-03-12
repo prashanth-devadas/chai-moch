@@ -5,7 +5,11 @@ var app = express();
 
 //Define request response in root URL
 app.get('/',function(req, res){
-    res.send("Hello World");
+    res.send('HelloWorld');
+})
+
+app.get('/status',function(req,res){
+    res.send('Hello to status page');
 })
 
 //Launch listening server on port 8080
