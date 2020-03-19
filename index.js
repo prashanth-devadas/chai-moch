@@ -1,5 +1,17 @@
 // objects and methods
 
+first();
+
+var a = 'Hello';
+function first(){
+    var b =' Hi';
+    second();
+    function second(){
+        var c = ' howdy'
+        console.log(a+b+c);
+    }
+}
+
 var mack = {
     firstName:'Mackeron',
     lastName:'Abiba',
